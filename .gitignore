@@ -1,3 +1,6 @@
 *pdf
 .DS_Store
 __pycache__/
+=======
+*.DS_Store
+>>>>>>> 39ad5a19154b5b149f0725ffd6f1daaa7ab8a4d4
